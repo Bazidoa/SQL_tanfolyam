@@ -1,0 +1,7 @@
+C:\Users\Training\Documents\Tananyagok\SQL\ElsoDBFeladat\ElsoDBFeladat\bin\Debug\ElsoDBFeladat.exe.config
+C:\Users\Training\Documents\Tananyagok\SQL\ElsoDBFeladat\ElsoDBFeladat\bin\Debug\ElsoDBFeladat.exe
+C:\Users\Training\Documents\Tananyagok\SQL\ElsoDBFeladat\ElsoDBFeladat\bin\Debug\ElsoDBFeladat.pdb
+C:\Users\Training\Documents\Tananyagok\SQL\ElsoDBFeladat\ElsoDBFeladat\obj\Debug\ElsoDBFeladat.csprojAssemblyReference.cache
+C:\Users\Training\Documents\Tananyagok\SQL\ElsoDBFeladat\ElsoDBFeladat\obj\Debug\ElsoDBFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Training\Documents\Tananyagok\SQL\ElsoDBFeladat\ElsoDBFeladat\obj\Debug\ElsoDBFeladat.exe
+C:\Users\Training\Documents\Tananyagok\SQL\ElsoDBFeladat\ElsoDBFeladat\obj\Debug\ElsoDBFeladat.pdb
